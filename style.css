@@ -13,8 +13,8 @@ html,body{
 }
 
 .container{
-    height: 95vh;
-    width: 50vw;
+    height: 75vh;
+    width: 45vw;
     background-color: rgb(5, 5, 213);
     border-radius: 20px;
 }
@@ -34,4 +34,45 @@ form .box{
     color:darkorange;
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#rollno{
+    margin-left: 100px;
+}
+#sn{
+    margin-left: 64px; 
+    
+}
+#fn{
+    margin-left: 63px;
+}
+#date{
+    margin-left: 70px;
+}
+#mn{
+    margin-left: 80px;
+}
+#email{
+    margin-left: 96px;
+}
+#psdrd{
+  margin-left: 90px;
+}
+#gender{
+    margin-left: 100px;
+}
+#department{
+    margin-left: 70px;
+}
+#Cources{
+    margin-left: 93px;
+}
+#photo{
+    margin-left: 55px;
+}
+#city{
+    margin-left: 115px;
+}
+#adress{
+    margin-left: 99px;
 }
